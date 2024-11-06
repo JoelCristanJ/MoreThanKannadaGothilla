@@ -1,0 +1,43 @@
+name: more_than_kannada_gothilla
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lottie: ^3.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - asset/Aniki Hamster.json
+    - asset/Directions.json
+    - asset/greetings.json
+    - asset/Food.json
+    - asset/Numbers.json
+    - asset/Network.json
+    - asset/Vegetables.json
+    - asset/Fruits.json
+    - asset/Meals.json
+    - asset/Beverages.json
+    - asset/Restaurant.json
+    - asset/Profile.jpg
+    - asset/Loading.json
+    - asset/Money.json
+    - asset/ComingSoon.json
+    - asset/whereareyou.json
+    - asset/looking.json
+    - asset/idea.json
+    - asset/name.json
+    - asset/music.json
+    - asset/fine.json
